@@ -1,0 +1,2 @@
+train metrics: {'loss': 1.0916847e-11, 'global_step': 1000}
+eval metrics: {'loss': 0.010100671, 'global_step': 1000}
